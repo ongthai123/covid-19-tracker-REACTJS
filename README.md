@@ -6,6 +6,8 @@ Introduction
 
 A responsive web app for displaying global statistics of COVID-19 using React.js, chart.js and material UI
 
+View app here: https://ongthai123.github.io/covid-19-tracker-REACTJS/
+
 API used: https://covid19.mathdro.id/api
 
 Setup:
